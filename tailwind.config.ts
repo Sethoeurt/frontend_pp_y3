@@ -9,9 +9,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
+        background: "url(/public/images/bg.jpg)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        'my-image' : "url(/images/bgr.jpg)",
+        'about-image' : "url(/images/bg.jpg)"
+       },
     },
   },
   plugins: [],
