@@ -25,7 +25,21 @@ export default function ShopPage() {
       name: "Smart Fitness Watch",
       price: 199,
       description: "Track your health metrics with this sleek and powerful smartwatch.",
-      image: "https://tse3.mm.bing.net/th?id=OIP.3UWKoHQwlopVlHB1G86-dAHaGd&pid=Api&P=0&h=220",
+      image: "https://tse3.mm.bing.net/th?id=OIP.3UWKoHQwlopVlHB1G86-dAHaGd&pid=Api&P=0&h=220.0
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      ",
     },
   ]);
 
